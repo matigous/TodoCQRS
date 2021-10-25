@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wt+172DAxgwK2KApJ+ZRJFGPF8pcNYM9uYOqI/YZfNt60pq2EtLQe3YX/ibUcOEAZXy43ssM2qI2EVR+n0D2XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matigous\\Desktop\\API Balta\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matigous\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\matigous\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\matigous\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\matigous\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\matigous\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\matigous\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\matigous\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

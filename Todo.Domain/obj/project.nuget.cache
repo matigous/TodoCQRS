@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0tWr1fXBFHJfwbQPXDroSYtpXNkzSB4FsgUxMIwDeWjoIFIouQ/u+9eQ4DJ+z/XMsfPu6P9BEuHda67+BN7WcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matigous\\Desktop\\API Balta\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matigous\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
